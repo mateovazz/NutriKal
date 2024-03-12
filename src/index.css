@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: Logo;
+  src: url("../public/fonts/Tropika_Island/Tropika_Island/Aiyari\ -\ Tropika\ Island\ Int.otf");
+}
+
+a,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: Logo;
+}
+
+#fondo {
+  background-color: #D4E7C5;
+}
+
+#home {
+  background-color: #E1F0DA;
+}
+
+#inicioSesion {
+  background-color: #D2E3C8;
+}
+
+#registro {
+  background-color: #E1F0DA;
+}
