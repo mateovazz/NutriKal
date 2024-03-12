@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/NutriKal/static/css/main.5e0fa3bd.css",
-    "main.js": "/NutriKal/static/js/main.648069d5.js",
+    "main.js": "/NutriKal/static/js/main.d399a9c9.js",
     "static/js/592.6e9b3c5f.chunk.js": "/NutriKal/static/js/592.6e9b3c5f.chunk.js",
     "static/media/Aiyari - Tropika Island Int.otf": "/NutriKal/static/media/Aiyari - Tropika Island Int.b02492cbbed1adc25f12.otf",
     "static/media/comida.webp": "/NutriKal/static/media/comida.5e6ef033b1c72181abd2.webp",
     "static/media/ubi.png": "/NutriKal/static/media/ubi.90c23db1ee1e1cd390fe.png",
     "index.html": "/NutriKal/index.html",
     "main.5e0fa3bd.css.map": "/NutriKal/static/css/main.5e0fa3bd.css.map",
-    "main.648069d5.js.map": "/NutriKal/static/js/main.648069d5.js.map",
+    "main.d399a9c9.js.map": "/NutriKal/static/js/main.d399a9c9.js.map",
     "592.6e9b3c5f.chunk.js.map": "/NutriKal/static/js/592.6e9b3c5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e0fa3bd.css",
-    "static/js/main.648069d5.js"
+    "static/js/main.d399a9c9.js"
   ]
 }
